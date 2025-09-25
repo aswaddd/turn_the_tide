@@ -1,7 +1,7 @@
-# Turn-The-Tide
-## A german board game. Good luck understanding the rules. 
+# turn the tide
+## a german board game. good luck understanding the rules. 
 
-## To run
-### Compile the java file and play in the terminal
+## to run
+### compile the java file and play in the terminal
 
 // read the pdf first to understand the game rules
